@@ -1,6 +1,6 @@
 numpy --install-option="--allow-noblas"
+numpy==1.25.2
+torch==2.8.0
+transformers==4.55.4
 streamlit==1.30.0
-numpy>=1.26.2
-torch>=2.8.0
-transformers>=4.55.4
 sentencepiece==0.2.1
